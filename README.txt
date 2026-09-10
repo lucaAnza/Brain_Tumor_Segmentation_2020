@@ -38,5 +38,21 @@ DeepLabv3+ test metrics V1
   pixel_accuracy: 0.9942
 
 
+DeepLabv3 V2
+----------
+         ET_dice: 0.7916
+          ET_iou: 0.6550
+         TC_dice: 0.8434
+          TC_iou: 0.7292
+         WT_dice: 0.8962
+          WT_iou: 0.8118
+       mean_dice: 0.8437
+        mean_iou: 0.7320
+  pixel_accuracy: 0.9950
 
-Try to improve them. Is visible a marked overfitting after epoch3.
+Mean Dice improvement: 0.84369167979052
+
+
+
+
+
