@@ -50,7 +50,42 @@ DeepLabv3 V2
         mean_iou: 0.7320
   pixel_accuracy: 0.9950
 
-Mean Dice improvement: 0.84369167979052
+Mean Dice improvement: 0.84369167979052.
+
+TODO : Make a test in the new V2 version that fixes some warning + add weight path.
+TODO : Training again V2 and save the weights. Then finally add everything in the final version and test both model.
+TODO : Translate UNET Architecture img explaination from Itian to English
+TODO : Add this into references.
+
+### References
+
+1. Ronneberger, O., Fischer, P., & Brox, T. (2015).  
+   *U-Net: Convolutional Networks for Biomedical Image Segmentation*.  
+   In Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 234–241.
+
+2. Chen, L.-C., Zhu, Y., Papandreou, G., Schroff, F., & Adam, H. (2018).  
+   *Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation*.  
+   European Conference on Computer Vision (ECCV), pp. 801–818.
+
+3. Chollet, F. (2017).  
+   *Xception: Deep Learning with Depthwise Separable Convolutions*.  
+   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 1251–1258.
+
+4. Hu, J., Shen, L., & Sun, G. (2018).  
+   *Squeeze-and-Excitation Networks*.  
+   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 7132–7141.
+
+5. Wu, Y., & He, K. (2018).  
+   *Group Normalization*.  
+   European Conference on Computer Vision (ECCV), pp. 3–19.
+
+6. Ramachandran, P., Zoph, B., & Le, Q. V. (2017).  
+   *Searching for Activation Functions*.  
+   arXiv preprint arXiv:1710.05941.
+
+7. Chen, L.-C., Papandreou, G., Schroff, F., & Adam, H. (2017).  
+   *Rethinking Atrous Convolution for Semantic Image Segmentation*.  
+   arXiv preprint arXiv:1706.05587.
 
 
 
