@@ -1,0 +1,6 @@
+TODO:
+
+1. Add history training imgs for both model.
+2. Add img explanation for both model.
+3. Clean deeplab code.
+4. Add name with istitutional email.
