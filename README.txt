@@ -52,8 +52,6 @@ DeepLabv3 V2
 
 Mean Dice improvement: 0.84369167979052.
 
-TODO : Make a test in the new V2 version that fixes some warning + add weight path.
-TODO : Training again V2 and save the weights. Then finally add everything in the final version and test both model.
 TODO : Translate UNET Architecture img explaination from Itian to English
 TODO : Add this into references.
 
